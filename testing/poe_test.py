@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import quora
 from time import sleep
 

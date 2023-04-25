@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import sqlchat
 
 for response in sqlchat.StreamCompletion.create(

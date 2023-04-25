@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import ora
 
 ora.user_id = '...'

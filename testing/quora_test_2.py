@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import quora
 
 token = quora.Account.create(logging = True, enable_bot_creation=True)

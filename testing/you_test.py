@@ -1,3 +1,6 @@
+import sys
+sys.path.append('.')
+
 import you
 
 # simple request with links and details

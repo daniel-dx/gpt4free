@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import t3nsor
 
 for response in t3nsor.StreamCompletion.create(

@@ -73,6 +73,12 @@ install requirements with:
 ```sh
 pip3 install -r requirements.txt
 ```
+## How to run test
+
+```
+$ python3 testing/you_test.py 
+```
+
 ## To start gpt4free GUI
 To start gpt4free GUI run the following command :
 `streamlit run streamlit_app.py`

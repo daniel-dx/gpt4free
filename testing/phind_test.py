@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 import phind
 
 # set cf_clearance cookie ( not needed at the moment)

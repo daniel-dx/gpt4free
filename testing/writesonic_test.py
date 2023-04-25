@@ -1,3 +1,6 @@
+import sys
+sys.path.append('.')
+
 # import writesonic
 import writesonic
 
